@@ -7,7 +7,7 @@ global.ownernomer = "263782876561"
 global.ownername = "ElitePro"
 global.ytname = "YT: @ElitePro-Empire"
 global.socialm = "GitHub: Elite-MD"
-global.location = "zimbabwe, Port Harcourt"
+global.location = "zimbabwe, Guruve"
 
 
 global.ownernumber = '263782876561'  //creator number
